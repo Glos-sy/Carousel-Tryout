@@ -13,6 +13,18 @@ body {
     /* font */
 }
 
+header {
+    height: 11rem;
+    padding: 4rem;
+    background-color: darkred;
+    color: white;
+    text-align: center;
+}
+
+h1 {
+    font-size: 3rem;
+}
+
 .mySlides {
     display: none;
 }
